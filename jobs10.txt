@@ -1,0 +1,10 @@
+CEO.12.20
+Vice_President.12.15
+Senior_Account_Manager.10.8
+Executive_Assistant.7.5
+Senior_Business_Development.7.8
+Business_Development.7.4
+Enterprise_Account_Manager.6.8
+Senior_Associate.6.9
+Senior_Data_Engineer.9.7
+Data_Engineer.9.3

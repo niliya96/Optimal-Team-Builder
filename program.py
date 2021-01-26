@@ -1,5 +1,5 @@
-# Nili Alfia 314880873
-# Noy Israeli 208577692
+# Nili Alfia
+# Noy Israeli
 
 import numpy as np
 import pulp as pp
